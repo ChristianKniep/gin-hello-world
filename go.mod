@@ -1,6 +1,6 @@
-module local/gin/hello-world
+module github.com/ChristianKniep/gin-hello-world
 
-go 1.18
+go 1.17
 
 require github.com/gin-gonic/gin v1.7.7
 
